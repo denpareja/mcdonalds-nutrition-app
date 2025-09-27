@@ -1,23 +1,23 @@
-<<<<<<< HEAD
-# 🍔 McDonald's Nutrition App
+# McDonald's Nutrition App
 
-Esta aplicación permite:
-- Visualizar los datos nutricionales de los productos de McDonald's.
-- Mostrar todos los datos con un checkbox.
-- Ver un histograma de calorías.
-- Ver un gráfico de dispersión (Calorías vs Grasa Total).
+Mini app en Streamlit para explorar información nutricional de productos de McDonald's.
+
+## Demo
+(agrega aquí el link si la publicas en Streamlit Cloud o Render)
+
+## Funcionalidades
+- Vista previa de los datos.
+- Checkbox para **mostrar todos los datos**.
+- Histograma de **calorías**.
+- Gráfico de dispersión **Calorías vs Grasa Total**.
 
 ## Requisitos
 - Python 3.12
-- pandas
 - streamlit
+- pandas
 - plotly
 
-## Cómo correrlo localmente
+## Instalación y ejecución local
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-=======
-# mcdonalds-nutrition-app
-Analysis of McDonalds nutritional facts. 
->>>>>>> 702f82f8a1719f49c7c24e5738338bc86bb8a6e6
