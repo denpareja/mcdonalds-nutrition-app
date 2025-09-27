@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 McDonald's Nutrition App
 
 Esta aplicación permite:
@@ -16,3 +17,7 @@ Esta aplicación permite:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+=======
+# mcdonalds-nutrition-app
+Analysis of McDonalds nutritional facts. 
+>>>>>>> 702f82f8a1719f49c7c24e5738338bc86bb8a6e6
