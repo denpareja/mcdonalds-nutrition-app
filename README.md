@@ -4,7 +4,8 @@ Mini app en **Streamlit** para explorar el contenido nutricional del menú de Mc
 Incluye vista previa, filtros por categoría, gráficos interactivos y un Top 10 por calorías.
 
 ## Demo
-(Agrega aquí el link si publicas en **Streamlit Cloud** o **Render**)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mcdonalds-nutrition-app-kfinqpuhjex2wsve4icnug.streamlit.app/)
+[![Live on Render](https://img.shields.io/badge/Live-Render-46E3B7?logo=render&logoColor=white)](https://mcdonalds-nutrition-app.onrender.com/)
 
 ## Funcionalidades
 - Vista previa del dataset.
